@@ -1,0 +1,11 @@
+<module uid="01ec1d90-0000-13af-0000-000000000000" name="WebModelPublisher" class="com.modeliosoft.webmodelreport.impl.WebModelReportMdac" binaryversion = "2.2.01.8021" licenseRequired = "false" version = "1.0.08.8021">
+    <classpath>
+        <entry path = 'lib/WebModelPublisher.jar'/>
+        <entry path = 'lib/log4j-1.2.15.jar'/>
+        <entry path = 'lib/OXML.jar'/>
+        <entry path = 'lib/dom4j-1.6.1.jar'/>
+        <entry path = 'lib/jaxen-1.1.jar'/>
+        <entry path = 'lib/DocumentPublisherNodeDefinition.jar'/>
+        <entry path = 'lib/DocumentPublisherFree.jar'/>
+    </classpath>
+</module>
